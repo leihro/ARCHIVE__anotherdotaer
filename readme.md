@@ -12,4 +12,3 @@ todo:
 4. hero intros with more imgs and words
 5. function the search box
 6. finish the footer
-7. edit github files
